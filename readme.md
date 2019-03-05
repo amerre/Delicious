@@ -12,6 +12,14 @@ This is a project that I'm building in the WesBos [course](https://learnnode.com
 - Pug
 - Webpack
 
+## How to use ?
+
+```bash
+npm start
+```
+
+Watch it live at localhost:PORT/
+
 ## Sample Data
 
 To load sample data, run the following command in your terminal:
